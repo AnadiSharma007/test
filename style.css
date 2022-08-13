@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+.carousel-card {
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 70%;
+}
+
+.carousel-card img{
+    width: 270px;
+    height: 270px;
+}
